@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キミサキ",
+  "base_artist": "SKY-HI",
+  "createdAt": "2026-02-12T10:31:40.304109Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミサキ",
+      "artist": "SKY-HI",
+      "has_synced": false,
+      "path": "select/pl_01_キミサキ_SKY-HI.txt"
+    }
+  ]
+}
